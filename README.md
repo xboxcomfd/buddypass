@@ -1,7 +1,7 @@
-# trial-redeemer-xag-support
-Selenium XGPC trial redeemer, but instead of creating accounts, uses XAG. More info in readme.
+# xboxcomfd/buddypass PY
+Redeem XBOX friend trial codes at ease, with support on 3rd party tools like XAG. Feature-rich, bug-rich.
 
-# very important
+# Important
 
 **I dont do these anymore. If i update it, it's either i just wanted to work on something on free time, or something critical is updated. If it doesn't work, open an issue (you will not get a response %80), do not DM me.**
 
@@ -9,8 +9,6 @@ Selenium XGPC trial redeemer, but instead of creating accounts, uses XAG. More i
 
 If you're getting a weird error regenerate your api token again and download the update, XAG API updated to v2
 
-# What's the difference with the other redeemer?
-This, instead of creating accounts itself, relies on XAG (Xbox account generator) API. More info below
 # Bugs?
 Known ones are:
 
@@ -63,3 +61,8 @@ Flags are in-testing features. Current ones are:
 
 `--fromfile` Uses outlooks from "outlooks.txt" instead of XAG fetching. Indev feature.
 
+## where does the name come from?
+
+Funny endpoint.
+
+![image](https://github.com/user-attachments/assets/726897bb-a4b7-4fc4-b72d-8fb12648e655)
