@@ -1,4 +1,4 @@
-# xboxcomfd/buddypass PY
+# xboxcomfd/buddypass.py
 Redeem XBOX friend trial codes at ease, with support on 3rd party tools like XAG. Feature-rich, bug-rich.
 
 # Important
